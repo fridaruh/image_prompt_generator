@@ -2,6 +2,8 @@
 
 This React component generates creative prompts for image creation, ideal for photographers, digital artists, and AI image generation enthusiasts.
 
+![Image Prompt Generator](https://ibb.co/svsg9pM)
+
 ## Features
 
 - Interactive UI for selecting various image attributes
