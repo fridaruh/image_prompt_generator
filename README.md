@@ -2,7 +2,7 @@
 
 This React component generates creative prompts for image creation, ideal for photographers, digital artists, and AI image generation enthusiasts.
 
-![Image Prompt Generator](https://ibb.co/svsg9pM)
+![Image Prompt Generator](https://i.ibb.co/VWMLY0P/Captura-de-pantalla-2024-07-21-a-la-s-9-49-12-p-m.png)
 
 ## Features
 
